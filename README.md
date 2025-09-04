@@ -2,10 +2,7 @@
 A simple and elegant Business Blog Card built as part of a frontend challenge.
 It showcases a blog post with an image, title, description, and author information in a clean card format.
 
-📸 Preview
 
-
-(Replace screenshot.png with your actual screenshot path or GitHub image URL)
 
 🚀 Tech Stack
 
@@ -33,7 +30,7 @@ Responsive and mobile-friendly
 
 👉 View Demo
 
-(Replace with your deployed link — GitHub Pages, Netlify, or Vercel)
+(https://mk-codes365.github.io/blog-card/)
 
 📂 How to Run Locally
 
